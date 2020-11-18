@@ -1,4 +1,5 @@
-instagram-scraper <br/>
+Instagram Scraper <br/>
+======
 Getting data from Instagram (followers) <br/>
 The current version is programmed for getting followers' IDs from a specific instagram ID. <br/>
 This bot basically scrapes instagram website (only web edition) by using Selenium framework. <br/>
